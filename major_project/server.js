@@ -8,4 +8,4 @@ app.get('/',function(req,res){
   //__dirname : It will resolve to your project folder.
 });
 
-app.listen(3000, '127.0.0.1')
+app.listen(3000);
